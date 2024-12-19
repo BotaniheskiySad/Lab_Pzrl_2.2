@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "filt_o.h"
+#include "file_o.h"
 
 FILE *open_file_read(const char *filename)
 {
