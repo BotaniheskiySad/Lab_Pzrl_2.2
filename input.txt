@@ -1,0 +1,3 @@
+old text
+another line
+delete this line
