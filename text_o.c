@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "file_operations.h"
-#include "text_operations.h"
+#include "file_o.h"
+#include "text_o.h"
 
 void replace_text(const char *filename, const char *old_text, const char *new_text) {
     FILE *file = open_file_read(filename);
